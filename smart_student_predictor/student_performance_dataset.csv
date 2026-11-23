@@ -1,0 +1,601 @@
+Student_ID,Student_Name,Age,Gender,Department,Semester,Attendance_Percentage,Study_Hours_Per_Day,Internal_Marks,Assignment_Score,Previous_Semester_Marks,Final_Marks,Performance_Category
+STU0001,Kavya Patel,18,Female,BCA (AI),1,91.1,4.4,83.9,61.7,74.0,63.0,Average
+STU0002,Kavya Reddy,22,Prefer not to say,B.Com,1,70.9,3.4,64.0,62.2,66.3,56.5,Average
+STU0003,Ishaan Joshi,20,Male,B.Com,1,92.4,4.4,64.0,63.9,75.8,65.0,Average
+STU0004,Tanvi Kumar,20,Female,B.Com,2,98.3,5.2,63.3,73.2,86.3,80.8,Good
+STU0005,Riya Joshi,18,Female,BCA,4,87.0,4.3,49.4,76.4,65.2,65.3,Average
+STU0006,Rahul Singh,18,Female,BCA,3,100.0,4.3,51.2,73.7,65.2,58.7,Average
+STU0007,Meera Verma,18,Female,BCA (AI),6,72.7,2.9,78.0,58.1,87.0,68.2,Average
+STU0008,Krish Joshi,22,Male,B.Com,2,67.1,3.0,74.5,71.0,77.2,59.5,Average
+STU0009,Tanvi Mehta,20,Male,BCA,3,60.7,1.7,49.7,59.9,62.4,55.1,Average
+STU0010,Meera Joshi,18,Male,BCA (AI),6,100.0,7.3,76.1,67.9,74.5,74.9,Good
+STU0011,Meera Kumar,17,Male,BCA (AI),6,89.9,2.0,58.5,60.9,62.4,56.8,Average
+STU0012,Meera Reddy,20,Female,B.Com,4,81.3,3.0,63.5,69.8,62.4,67.1,Average
+STU0013,Diya Kumar,22,Male,B.Sc. CS,5,85.4,2.9,79.9,52.2,70.9,58.2,Average
+STU0014,Meera Iyer,17,Male,B.Com,1,68.5,5.8,59.9,51.5,45.0,50.4,Needs Improvement
+STU0015,Aditi Singh,19,Female,B.Sc. CS,3,100.0,3.7,51.9,61.2,47.3,54.4,Needs Improvement
+STU0016,Tanvi Mehta,20,Female,BCA (AI),2,83.6,6.4,54.6,70.4,61.3,69.9,Average
+STU0017,Aarav Verma,19,Male,BCA,3,83.3,3.0,41.5,59.1,55.8,45.6,Needs Improvement
+STU0018,Rahul Reddy,18,Female,BBA,5,90.7,4.7,61.7,70.1,71.8,55.3,Average
+STU0019,Meera Reddy,22,Female,BCA (AI),1,87.8,2.7,57.7,57.5,57.1,54.3,Needs Improvement
+STU0020,Meera Gupta,18,Male,BCA,3,84.7,8.1,48.2,58.2,51.1,64.2,Average
+STU0021,Diya Reddy,22,Prefer not to say,BCA (AI),5,72.5,2.1,74.0,73.5,85.6,72.1,Good
+STU0022,Diya Verma,21,Female,B.Com,2,87.7,4.8,64.5,74.0,65.3,65.5,Average
+STU0023,Sahil Gupta,18,Male,B.Sc. CS,4,100.0,5.3,64.0,66.2,68.8,66.8,Average
+STU0024,Ishaan Kumar,19,Female,BCA (AI),6,98.1,4.9,50.8,58.4,50.9,63.5,Average
+STU0025,Diya Gupta,22,Male,BCA,2,100.0,3.9,63.2,47.8,61.5,51.8,Needs Improvement
+STU0026,Sahil Patel,18,Male,B.Com,1,75.9,4.0,69.7,68.0,69.3,63.6,Average
+STU0027,Nisha Iyer,20,Male,BBA,6,70.1,4.3,49.1,62.7,54.2,56.1,Average
+STU0028,Ishaan Iyer,22,Female,B.Com,2,80.5,3.9,79.2,64.7,72.5,70.0,Average
+STU0029,Tanvi Mehta,22,Male,B.Sc. CS,2,82.7,5.9,60.6,75.3,60.8,65.2,Average
+STU0030,Diya Mehta,18,Male,B.Com,2,95.1,8.2,63.6,72.5,64.5,73.8,Good
+STU0031,Aarav Patel,21,Female,BBA,2,61.7,3.2,67.1,62.1,60.8,47.9,Needs Improvement
+STU0032,Krish Singh,18,Female,BCA,6,100.0,1.7,79.5,58.0,90.2,65.5,Average
+STU0033,Meera Patel,19,Female,BCA (AI),1,80.1,4.0,72.9,63.3,67.8,67.2,Average
+STU0034,Aarav Iyer,19,Female,B.Sc. CS,5,76.9,8.8,60.7,71.8,55.3,65.9,Average
+STU0035,Krish Joshi,22,Male,BBA,3,69.9,2.8,65.9,65.7,77.9,62.6,Average
+STU0036,Diya Joshi,22,Female,B.Sc. CS,4,62.1,7.2,60.2,63.9,53.3,64.6,Average
+STU0037,Aditi Singh,18,Female,B.Com,3,91.9,7.2,57.6,73.8,70.5,70.0,Average
+STU0038,Diya Reddy,19,Male,B.Sc. CS,3,82.9,3.2,53.3,56.9,44.5,53.5,Needs Improvement
+STU0039,Aarav Mehta,19,Female,BBA,4,66.5,5.2,56.4,56.7,52.1,52.6,Needs Improvement
+STU0040,Sahil Reddy,21,Male,BCA (AI),6,66.5,7.1,65.0,61.6,70.4,66.3,Average
+STU0041,Aditi Singh,20,Female,BCA (AI),1,78.0,3.5,69.2,79.8,76.9,71.5,Good
+STU0042,Rahul Gupta,21,Male,B.Sc. CS,4,100.0,3.8,51.5,74.8,70.1,65.5,Average
+STU0043,Nisha Verma,17,Male,BCA,1,78.9,3.2,60.2,49.7,66.6,54.0,Needs Improvement
+STU0044,Meera Gupta,21,Male,B.Sc. CS,6,64.0,2.4,64.2,62.1,64.4,58.0,Average
+STU0045,Rahul Mehta,18,Female,B.Com,3,79.1,3.0,56.9,48.3,50.3,54.9,Needs Improvement
+STU0046,Aarav Joshi,20,Male,BCA (AI),1,78.7,2.0,52.4,55.2,59.4,43.7,Needs Improvement
+STU0047,Sahil Reddy,18,Female,BCA (AI),6,49.6,4.3,72.5,64.1,62.5,66.0,Average
+STU0048,Diya Verma,17,Female,BCA (AI),6,81.3,2.8,65.4,63.4,80.7,62.3,Average
+STU0049,Tanvi Patel,20,Female,BCA,5,79.2,4.6,75.4,61.0,72.1,68.9,Average
+STU0050,Sahil Gupta,22,Male,BCA,4,90.4,1.4,57.2,40.0,46.8,52.7,Needs Improvement
+STU0051,Diya Reddy,19,Female,BBA,5,100.0,4.8,62.4,60.4,71.9,60.5,Average
+STU0052,Kavya Gupta,21,Male,B.Sc. CS,3,95.5,5.7,77.1,60.1,63.4,66.6,Average
+STU0053,Nisha Mehta,18,Female,B.Sc. CS,4,78.8,0.6,51.4,48.4,59.9,46.7,Needs Improvement
+STU0054,Sahil Joshi,17,Female,B.Com,3,68.7,4.9,76.8,63.8,75.3,64.7,Average
+STU0055,Diya Singh,19,Male,BCA (AI),5,100.0,6.4,80.2,82.1,80.4,88.3,Excellent
+STU0056,Krish Mehta,21,Female,BCA,6,82.7,2.0,66.2,74.0,79.2,61.4,Average
+STU0057,Rahul Sharma,19,Male,B.Com,3,82.2,7.2,71.0,64.5,57.9,66.8,Average
+STU0058,Nisha Joshi,21,Female,B.Com,4,81.7,5.0,61.4,66.7,64.3,65.0,Average
+STU0059,Krish Singh,22,Male,BCA,4,84.4,2.9,69.9,65.8,72.0,59.3,Average
+STU0060,Diya Patel,20,Male,B.Sc. CS,3,80.3,4.1,73.9,72.8,79.7,68.6,Average
+STU0061,Krish Joshi,19,Female,BCA (AI),4,75.1,5.2,61.2,65.3,62.2,64.4,Average
+STU0062,Meera Sharma,19,Female,B.Sc. CS,6,75.4,4.3,70.7,69.4,65.8,64.4,Average
+STU0063,Sahil Gupta,19,Male,B.Com,6,81.6,5.2,64.4,65.0,54.7,62.8,Average
+STU0064,Meera Mehta,20,Male,BCA (AI),4,75.5,2.5,43.5,42.4,53.6,43.9,Needs Improvement
+STU0065,Rahul Reddy,17,Female,BBA,3,73.4,4.5,81.2,76.4,77.8,66.3,Average
+STU0066,Kavya Sharma,21,Female,B.Com,5,83.3,1.7,61.1,70.3,84.3,64.4,Average
+STU0067,Aditi Singh,22,Male,B.Sc. CS,4,78.9,4.0,73.2,56.9,67.1,70.8,Good
+STU0068,Kavya Iyer,19,Male,B.Sc. CS,4,100.0,2.6,81.0,64.6,80.0,69.9,Average
+STU0069,Sahil Sharma,20,Female,B.Sc. CS,4,50.2,2.9,59.1,67.2,72.3,58.6,Average
+STU0070,Diya Kumar,17,Male,BCA,4,95.1,6.4,57.9,66.0,60.3,69.5,Average
+STU0071,Diya Singh,21,Female,B.Com,3,97.0,6.2,58.9,80.9,72.3,67.3,Average
+STU0072,Diya Singh,20,Male,BCA (AI),5,57.1,5.3,73.8,94.8,86.5,83.6,Good
+STU0073,Aarav Joshi,22,Female,B.Sc. CS,5,77.9,2.2,62.7,51.3,67.6,56.8,Average
+STU0074,Ishaan Mehta,22,Prefer not to say,B.Sc. CS,1,77.5,3.6,82.0,59.6,86.8,76.2,Good
+STU0075,Aditi Verma,21,Male,BCA,4,65.1,6.4,58.6,59.3,36.6,53.8,Needs Improvement
+STU0076,Krish Verma,19,Male,BCA (AI),4,72.7,4.5,82.0,75.1,77.9,80.1,Good
+STU0077,Krish Verma,22,Male,B.Com,1,68.7,8.4,61.5,76.0,69.0,75.3,Good
+STU0078,Ishaan Mehta,17,Male,BBA,5,100.0,4.9,61.8,76.3,64.4,71.1,Good
+STU0079,Nisha Patel,20,Male,BCA,2,93.2,4.5,52.5,54.9,69.1,61.4,Average
+STU0080,Rahul Verma,17,Female,B.Com,6,97.3,3.6,45.8,57.1,44.1,52.2,Needs Improvement
+STU0081,Nisha Joshi,19,Male,BBA,2,90.7,4.4,71.7,58.8,65.4,70.4,Good
+STU0082,Ishaan Sharma,17,Male,B.Sc. CS,5,68.5,3.9,80.7,78.8,72.3,71.1,Good
+STU0083,Aarav Verma,17,Male,B.Sc. CS,4,75.7,5.5,65.3,92.0,85.7,67.6,Average
+STU0084,Tanvi Iyer,18,Female,BCA (AI),2,87.9,5.9,57.2,60.6,61.8,58.9,Average
+STU0085,Aditi Verma,17,Female,BBA,3,67.3,2.8,59.9,50.8,58.3,52.2,Needs Improvement
+STU0086,Krish Mehta,21,Female,B.Sc. CS,3,90.6,1.8,64.3,60.5,62.0,59.7,Average
+STU0087,Meera Iyer,20,Male,B.Sc. CS,1,79.1,0.9,65.0,55.3,79.0,57.2,Average
+STU0088,Krish Joshi,18,Female,BCA (AI),5,77.5,5.1,71.0,68.4,71.9,73.5,Good
+STU0089,Sahil Gupta,20,Male,B.Com,5,90.5,2.2,58.1,55.0,61.6,47.8,Needs Improvement
+STU0090,Aditi Sharma,20,Male,B.Sc. CS,2,87.3,0.5,68.7,39.6,74.2,54.5,Needs Improvement
+STU0091,Kavya Iyer,19,Male,BCA,4,77.7,4.9,70.4,66.7,69.2,59.3,Average
+STU0092,Nisha Singh,19,Male,BCA,5,95.9,8.7,71.8,78.1,79.6,84.4,Good
+STU0093,Kavya Kumar,18,Female,B.Com,2,69.0,4.2,57.3,56.3,59.6,56.3,Average
+STU0094,Krish Patel,22,Female,BBA,2,89.4,5.7,62.4,78.6,64.1,71.4,Good
+STU0095,Kavya Verma,19,Female,BCA (AI),6,89.1,4.3,62.1,52.3,63.3,56.8,Average
+STU0096,Riya Sharma,19,Male,BCA,6,78.3,4.0,52.8,62.1,50.4,61.4,Average
+STU0097,Sahil Sharma,19,Female,BCA,5,85.9,5.9,65.3,68.7,71.6,73.6,Good
+STU0098,Riya Mehta,20,Male,B.Com,2,67.0,3.7,79.9,61.5,71.1,67.6,Average
+STU0099,Aditi Singh,18,Female,BBA,1,93.1,4.7,69.9,71.9,68.1,68.8,Average
+STU0100,Kavya Mehta,20,Female,BBA,1,79.8,4.8,61.5,67.3,65.2,66.4,Average
+STU0101,Aditi Gupta,21,Female,B.Com,6,75.7,3.0,61.6,57.1,51.0,52.1,Needs Improvement
+STU0102,Aarav Mehta,20,Male,BCA,5,94.6,6.0,60.0,75.2,63.0,72.7,Good
+STU0103,Rahul Kumar,21,Male,BCA (AI),4,73.5,3.9,72.5,58.5,63.9,69.1,Average
+STU0104,Kavya Singh,17,Female,BCA,1,65.1,2.8,63.1,50.5,58.4,58.2,Average
+STU0105,Diya Iyer,17,Male,BBA,1,63.3,5.2,63.5,57.6,66.1,57.9,Average
+STU0106,Kavya Joshi,21,Female,BCA,6,89.3,2.6,71.6,54.4,72.8,63.7,Average
+STU0107,Rahul Kumar,21,Prefer not to say,BCA (AI),6,66.6,4.3,65.3,98.0,90.6,69.6,Average
+STU0108,Riya Iyer,20,Male,B.Sc. CS,5,100.0,4.2,57.5,74.9,70.1,69.5,Average
+STU0109,Aditi Iyer,21,Female,BCA,6,57.0,6.2,57.5,60.9,71.1,64.1,Average
+STU0110,Sahil Singh,18,Male,B.Com,3,100.0,5.1,66.1,55.8,67.1,57.8,Average
+STU0111,Krish Gupta,17,Female,B.Sc. CS,2,84.5,4.2,66.6,57.4,45.0,53.6,Needs Improvement
+STU0112,Krish Verma,17,Prefer not to say,B.Com,1,80.8,5.7,83.1,73.0,67.7,72.3,Good
+STU0113,Meera Gupta,22,Female,B.Com,3,75.5,6.7,70.9,76.8,68.7,71.2,Good
+STU0114,Sahil Sharma,21,Male,B.Com,4,86.8,5.2,85.7,78.5,97.6,76.0,Good
+STU0115,Aditi Mehta,19,Female,BCA,3,81.5,4.2,49.7,62.1,65.7,60.4,Average
+STU0116,Aarav Sharma,19,Male,BBA,5,95.2,1.8,63.0,60.7,71.6,61.6,Average
+STU0117,Aarav Joshi,21,Male,B.Sc. CS,4,83.4,2.3,58.9,58.4,67.6,56.6,Average
+STU0118,Ishaan Singh,18,Male,BCA (AI),4,83.8,3.7,52.7,38.2,54.0,47.5,Needs Improvement
+STU0119,Aditi Sharma,19,Male,BBA,6,77.6,3.1,71.6,64.9,81.7,70.4,Good
+STU0120,Tanvi Reddy,22,Male,BCA,3,81.3,3.9,66.6,60.2,77.0,71.3,Good
+STU0121,Rahul Mehta,21,Female,B.Com,5,85.7,4.3,54.8,70.0,77.5,63.0,Average
+STU0122,Ishaan Gupta,18,Female,BCA (AI),1,61.5,5.2,65.4,86.1,57.1,64.1,Average
+STU0123,Aditi Mehta,18,Female,B.Sc. CS,6,65.8,4.1,66.1,74.1,84.8,69.8,Average
+STU0124,Aditi Reddy,20,Prefer not to say,BBA,3,90.9,5.1,58.1,56.8,51.2,58.1,Average
+STU0125,Nisha Joshi,18,Female,BBA,1,84.1,4.3,85.9,75.0,75.0,73.5,Good
+STU0126,Aarav Joshi,19,Male,BCA (AI),3,79.8,0.6,72.5,68.4,94.3,68.4,Average
+STU0127,Aditi Gupta,19,Male,BCA,6,82.2,2.5,38.6,56.6,56.1,41.6,Needs Improvement
+STU0128,Aarav Kumar,21,Female,B.Sc. CS,1,86.2,3.9,59.4,65.0,61.2,66.9,Average
+STU0129,Sahil Mehta,21,Female,BCA (AI),6,75.5,2.0,74.9,74.1,69.2,64.9,Average
+STU0130,Riya Sharma,18,Female,B.Com,3,72.7,5.3,77.7,55.7,62.0,63.2,Average
+STU0131,Aditi Mehta,22,Female,B.Sc. CS,4,84.4,7.0,45.3,68.3,49.4,61.0,Average
+STU0132,Krish Patel,17,Female,BBA,2,70.3,6.4,69.8,64.0,68.8,67.7,Average
+STU0133,Riya Verma,20,Female,BCA (AI),4,86.9,3.8,54.7,61.5,55.3,50.7,Needs Improvement
+STU0134,Riya Singh,17,Male,BBA,6,61.6,6.9,67.7,67.8,73.7,75.3,Good
+STU0135,Diya Mehta,18,Prefer not to say,BBA,6,94.3,4.5,80.5,56.6,57.0,66.2,Average
+STU0136,Nisha Verma,18,Female,BBA,6,87.7,3.6,63.6,68.1,86.6,69.5,Average
+STU0137,Riya Mehta,17,Female,BCA,1,85.1,3.1,62.3,64.1,58.6,63.7,Average
+STU0138,Nisha Gupta,20,Female,BBA,5,93.8,3.7,67.0,67.9,64.1,60.8,Average
+STU0139,Krish Reddy,17,Male,B.Com,6,100.0,3.5,79.5,56.2,77.8,70.6,Good
+STU0140,Aarav Singh,21,Male,B.Com,4,94.2,4.5,58.1,58.8,53.2,58.8,Average
+STU0141,Aarav Singh,19,Female,B.Sc. CS,2,59.9,4.5,69.4,60.5,70.7,66.1,Average
+STU0142,Aditi Kumar,22,Female,BBA,6,66.6,4.2,70.9,61.0,83.7,56.9,Average
+STU0143,Riya Iyer,21,Male,BBA,6,74.5,5.0,56.9,56.1,48.7,56.2,Average
+STU0144,Sahil Reddy,19,Male,BCA (AI),6,82.3,6.3,63.9,69.4,70.2,66.7,Average
+STU0145,Diya Joshi,22,Female,BCA,1,88.2,5.9,72.1,90.3,71.1,78.6,Good
+STU0146,Diya Gupta,22,Male,B.Sc. CS,6,73.3,1.5,67.6,63.2,77.4,62.3,Average
+STU0147,Ishaan Joshi,22,Female,BBA,4,84.2,0.5,60.3,34.5,53.2,43.0,Needs Improvement
+STU0148,Sahil Gupta,18,Female,BCA (AI),3,72.9,5.9,56.5,57.8,52.2,55.9,Average
+STU0149,Nisha Sharma,22,Male,BCA,5,74.7,1.7,77.9,67.2,74.3,63.5,Average
+STU0150,Krish Sharma,20,Male,B.Sc. CS,6,65.1,3.8,66.9,81.1,71.6,62.8,Average
+STU0151,Aarav Joshi,17,Female,B.Sc. CS,1,70.9,2.1,52.9,46.0,71.0,55.1,Average
+STU0152,Meera Patel,20,Male,BBA,4,65.8,1.0,77.8,40.5,72.2,52.9,Needs Improvement
+STU0153,Krish Iyer,17,Female,B.Sc. CS,6,70.3,5.2,53.7,78.5,59.8,51.0,Needs Improvement
+STU0154,Meera Patel,21,Male,BCA (AI),1,94.6,5.6,61.7,72.8,70.8,68.1,Average
+STU0155,Krish Singh,21,Male,B.Sc. CS,3,70.6,3.2,62.6,55.4,71.5,54.1,Needs Improvement
+STU0156,Diya Iyer,17,Male,B.Com,2,100.0,0.5,71.7,52.6,59.4,49.8,Needs Improvement
+STU0157,Riya Verma,20,Male,BCA (AI),6,87.9,3.2,60.6,49.9,90.4,57.2,Average
+STU0158,Aarav Verma,17,Female,BCA,4,84.2,4.9,93.6,68.9,73.7,75.9,Good
+STU0159,Meera Reddy,22,Male,BCA,1,71.7,1.5,66.0,51.7,53.7,57.9,Average
+STU0160,Aarav Gupta,18,Male,BBA,1,90.4,4.5,71.5,76.0,75.9,73.1,Good
+STU0161,Meera Iyer,21,Male,BBA,6,75.1,4.2,58.5,50.6,56.3,53.1,Needs Improvement
+STU0162,Nisha Gupta,18,Female,B.Com,1,83.5,5.2,72.9,72.3,77.4,73.8,Good
+STU0163,Diya Joshi,22,Male,BCA,2,100.0,4.4,77.2,63.6,81.9,70.3,Good
+STU0164,Meera Patel,22,Male,BCA,1,80.8,2.4,65.1,56.0,58.2,53.8,Needs Improvement
+STU0165,Rahul Verma,21,Female,BCA,5,95.8,6.4,76.2,69.0,79.6,71.0,Good
+STU0166,Diya Verma,21,Male,BCA,5,73.6,3.9,68.8,62.1,73.0,56.5,Average
+STU0167,Aarav Singh,22,Female,B.Sc. CS,1,81.6,4.2,69.2,60.4,77.9,64.2,Average
+STU0168,Kavya Gupta,19,Female,BCA (AI),6,100.0,2.5,76.7,74.1,90.8,73.7,Good
+STU0169,Kavya Sharma,18,Male,BCA (AI),5,74.5,3.4,62.2,67.0,65.1,60.6,Average
+STU0170,Diya Sharma,18,Male,B.Com,4,100.0,2.6,69.5,53.0,59.0,58.2,Average
+STU0171,Sahil Kumar,19,Male,B.Sc. CS,5,90.5,3.9,64.3,58.5,57.3,56.8,Average
+STU0172,Kavya Gupta,20,Female,BCA,1,75.3,7.3,36.5,57.9,58.2,60.1,Average
+STU0173,Nisha Reddy,18,Prefer not to say,BCA,6,89.6,1.7,70.1,53.3,67.1,53.3,Needs Improvement
+STU0174,Tanvi Sharma,17,Female,BBA,3,93.7,1.3,69.2,56.2,72.1,63.3,Average
+STU0175,Ishaan Reddy,22,Female,BBA,6,89.5,6.8,67.1,95.0,71.3,74.3,Good
+STU0176,Sahil Sharma,22,Female,B.Com,6,63.2,3.8,67.8,58.4,77.9,59.0,Average
+STU0177,Rahul Mehta,19,Male,BCA,6,73.3,3.0,74.5,72.0,68.2,59.1,Average
+STU0178,Meera Kumar,18,Male,B.Com,4,79.0,6.1,82.6,85.9,85.4,78.3,Good
+STU0179,Meera Verma,20,Male,B.Sc. CS,2,81.1,3.1,57.5,61.4,64.8,62.6,Average
+STU0180,Ishaan Mehta,18,Male,BCA (AI),1,89.4,7.5,86.3,100.0,100.0,93.7,Excellent
+STU0181,Diya Verma,22,Female,BCA,2,84.1,5.4,61.8,74.3,75.5,73.6,Good
+STU0182,Riya Verma,21,Male,B.Sc. CS,3,66.0,3.3,48.7,59.7,57.7,55.1,Average
+STU0183,Aarav Kumar,17,Female,BCA,2,86.6,8.1,53.3,70.3,55.1,62.7,Average
+STU0184,Tanvi Gupta,19,Male,BBA,1,89.3,3.1,75.5,72.9,73.8,67.6,Average
+STU0185,Krish Iyer,21,Female,B.Com,1,88.7,5.5,71.6,75.9,65.3,68.0,Average
+STU0186,Ishaan Sharma,20,Male,BBA,3,95.0,4.7,74.2,64.6,76.6,76.3,Good
+STU0187,Krish Kumar,21,Male,BCA (AI),1,92.0,6.5,74.3,63.5,73.7,67.7,Average
+STU0188,Riya Gupta,21,Male,BBA,3,87.5,7.0,69.0,71.0,67.1,76.0,Good
+STU0189,Diya Verma,20,Male,BCA,3,81.2,4.3,54.7,53.3,57.8,60.2,Average
+STU0190,Krish Sharma,21,Female,BBA,1,62.1,2.8,58.9,51.0,49.8,58.4,Average
+STU0191,Meera Mehta,19,Male,BCA,5,87.2,5.0,68.9,74.2,62.6,66.8,Average
+STU0192,Riya Mehta,22,Female,BCA (AI),3,84.5,3.0,77.1,61.1,78.3,69.5,Average
+STU0193,Tanvi Reddy,18,Male,BBA,1,85.3,7.8,76.3,76.5,70.6,87.0,Excellent
+STU0194,Aarav Singh,21,Male,B.Com,5,66.7,4.4,62.8,58.6,53.1,55.1,Average
+STU0195,Meera Iyer,19,Female,B.Com,3,69.0,3.5,69.4,69.7,70.1,57.7,Average
+STU0196,Kavya Verma,18,Prefer not to say,B.Com,5,94.6,4.5,76.5,49.2,72.6,58.4,Average
+STU0197,Meera Reddy,18,Male,BBA,4,81.5,1.8,59.4,46.7,57.4,54.6,Needs Improvement
+STU0198,Aarav Mehta,21,Female,BBA,6,90.2,2.5,59.4,61.0,69.8,51.9,Needs Improvement
+STU0199,Krish Mehta,19,Male,BBA,4,82.3,6.4,64.5,80.9,68.7,70.4,Good
+STU0200,Riya Patel,22,Female,BCA,5,82.4,3.0,51.9,50.1,54.3,54.0,Needs Improvement
+STU0201,Diya Mehta,21,Male,BCA (AI),3,93.3,2.3,62.4,44.9,72.3,57.9,Average
+STU0202,Aditi Sharma,20,Male,B.Com,1,75.8,5.2,67.9,75.1,74.7,71.5,Good
+STU0203,Rahul Iyer,18,Prefer not to say,BCA,2,83.2,6.3,66.2,71.6,81.0,73.5,Good
+STU0204,Meera Mehta,21,Male,B.Com,1,76.5,5.5,69.9,64.4,80.6,74.7,Good
+STU0205,Diya Reddy,18,Female,BCA,2,76.8,6.0,41.2,57.3,51.5,51.2,Needs Improvement
+STU0206,Aditi Mehta,19,Male,BBA,2,78.3,2.8,60.9,53.1,56.7,52.2,Needs Improvement
+STU0207,Rahul Sharma,17,Female,B.Com,3,84.7,1.6,68.8,53.8,74.2,56.0,Average
+STU0208,Ishaan Gupta,21,Male,BBA,5,76.3,6.9,62.3,57.8,74.2,70.4,Good
+STU0209,Meera Reddy,22,Male,B.Com,1,97.1,3.6,74.1,72.1,74.2,74.1,Good
+STU0210,Meera Reddy,21,Female,B.Sc. CS,5,71.3,3.7,90.5,87.2,100.0,82.4,Good
+STU0211,Aditi Singh,18,Female,BCA,4,79.8,6.6,56.3,80.0,74.9,75.8,Good
+STU0212,Kavya Sharma,19,Male,B.Sc. CS,3,76.7,5.2,66.8,64.3,81.6,63.2,Average
+STU0213,Aarav Reddy,20,Male,BCA,3,99.4,5.0,65.5,70.2,79.4,78.3,Good
+STU0214,Diya Reddy,22,Female,BCA (AI),4,84.4,8.1,62.2,80.0,75.8,82.3,Good
+STU0215,Diya Joshi,19,Female,B.Com,1,94.4,3.0,70.0,63.4,64.2,66.8,Average
+STU0216,Rahul Sharma,21,Female,BCA (AI),6,64.2,5.9,68.9,78.8,77.1,78.7,Good
+STU0217,Sahil Verma,20,Male,BCA (AI),4,85.2,4.3,58.2,54.3,58.7,51.5,Needs Improvement
+STU0218,Riya Verma,19,Female,BCA,1,92.7,4.7,47.8,65.0,65.2,58.9,Average
+STU0219,Ishaan Verma,17,Male,B.Sc. CS,2,83.0,7.0,67.3,73.9,62.2,67.8,Average
+STU0220,Meera Iyer,22,Female,BBA,3,94.8,5.1,56.0,79.1,69.0,71.6,Good
+STU0221,Meera Gupta,18,Male,BCA,1,75.8,5.2,81.2,85.3,95.8,75.4,Good
+STU0222,Riya Sharma,19,Female,BBA,5,98.9,6.1,55.3,66.4,45.6,66.3,Average
+STU0223,Sahil Reddy,19,Male,BCA (AI),5,100.0,3.5,80.8,66.3,76.2,77.0,Good
+STU0224,Rahul Kumar,17,Female,BBA,3,77.6,2.7,44.3,61.8,48.6,53.7,Needs Improvement
+STU0225,Sahil Kumar,21,Male,B.Sc. CS,4,76.7,2.3,38.1,58.8,62.3,51.4,Needs Improvement
+STU0226,Krish Iyer,22,Female,BCA,6,99.4,0.7,74.1,51.7,81.1,57.3,Average
+STU0227,Nisha Joshi,22,Male,B.Sc. CS,4,100.0,7.9,80.2,87.5,68.8,79.3,Good
+STU0228,Nisha Sharma,18,Male,B.Sc. CS,1,75.7,2.2,68.2,57.4,55.1,61.6,Average
+STU0229,Aarav Joshi,19,Female,BCA,4,77.0,3.8,62.4,55.4,59.4,61.3,Average
+STU0230,Kavya Iyer,20,Male,B.Sc. CS,3,78.6,3.7,66.0,62.3,76.2,63.8,Average
+STU0231,Aditi Iyer,19,Male,B.Com,1,65.9,4.8,67.0,64.2,59.2,60.1,Average
+STU0232,Tanvi Joshi,18,Female,B.Com,2,71.0,5.7,59.0,73.6,70.6,58.0,Average
+STU0233,Rahul Singh,19,Female,B.Com,4,70.0,5.7,69.5,70.8,68.5,63.7,Average
+STU0234,Aarav Sharma,17,Female,BBA,4,72.8,3.2,65.1,59.7,60.2,66.4,Average
+STU0235,Kavya Verma,19,Male,B.Sc. CS,6,81.6,3.9,88.0,88.3,93.7,75.1,Good
+STU0236,Nisha Reddy,19,Male,BCA,1,84.8,4.7,91.7,77.7,75.6,78.0,Good
+STU0237,Sahil Kumar,20,Female,BCA,5,100.0,3.8,55.2,53.2,43.7,59.5,Average
+STU0238,Kavya Verma,17,Male,BBA,4,70.0,7.1,62.6,81.8,70.2,66.6,Average
+STU0239,Meera Joshi,17,Male,BCA,3,93.8,5.1,60.8,55.0,60.1,62.8,Average
+STU0240,Riya Sharma,19,Male,B.Com,4,79.4,5.5,56.9,76.1,78.2,72.6,Good
+STU0241,Aditi Reddy,22,Male,B.Sc. CS,6,81.4,5.4,54.6,78.1,58.5,64.9,Average
+STU0242,Ishaan Kumar,20,Male,BCA,2,90.1,6.3,61.4,68.4,66.6,80.6,Good
+STU0243,Aditi Sharma,19,Male,BCA,6,68.5,4.5,64.5,61.0,74.1,56.1,Average
+STU0244,Rahul Sharma,19,Female,BCA (AI),4,86.6,1.9,72.3,56.0,78.4,66.6,Average
+STU0245,Ishaan Verma,18,Male,BCA (AI),5,84.0,4.9,50.9,51.1,53.6,54.9,Needs Improvement
+STU0246,Sahil Singh,18,Male,BCA (AI),4,87.9,3.0,72.2,52.2,64.0,63.9,Average
+STU0247,Nisha Joshi,22,Female,B.Sc. CS,1,85.5,3.2,62.3,55.5,62.3,60.5,Average
+STU0248,Sahil Iyer,20,Male,B.Com,4,100.0,5.3,61.0,52.6,60.2,59.4,Average
+STU0249,Sahil Kumar,21,Male,B.Com,5,74.3,6.4,74.4,80.8,89.2,78.7,Good
+STU0250,Meera Patel,18,Male,B.Com,1,75.6,4.2,69.3,73.6,72.9,59.9,Average
+STU0251,Riya Singh,21,Female,B.Sc. CS,3,74.5,4.8,63.7,51.7,52.9,60.2,Average
+STU0252,Riya Iyer,17,Female,B.Sc. CS,1,75.3,7.3,64.5,91.0,79.0,78.5,Good
+STU0253,Riya Reddy,18,Male,BCA (AI),6,74.4,4.6,74.1,81.0,93.5,78.0,Good
+STU0254,Tanvi Sharma,18,Male,BCA,2,96.3,8.9,69.8,92.8,80.4,89.3,Excellent
+STU0255,Aditi Kumar,20,Female,BBA,6,99.0,5.2,44.6,53.8,49.8,57.8,Average
+STU0256,Diya Verma,22,Male,BBA,1,75.2,1.0,55.6,58.1,62.2,52.9,Needs Improvement
+STU0257,Aarav Reddy,21,Male,BCA,3,72.0,5.6,70.0,66.5,83.2,66.3,Average
+STU0258,Diya Sharma,18,Female,BCA (AI),4,87.7,4.9,67.7,69.5,59.5,63.3,Average
+STU0259,Tanvi Sharma,18,Female,BCA,1,75.4,6.5,70.4,75.2,73.3,77.5,Good
+STU0260,Tanvi Sharma,20,Female,BCA,6,89.6,5.4,72.1,76.5,77.3,79.8,Good
+STU0261,Nisha Patel,20,Male,BBA,1,84.4,4.0,66.1,48.8,56.9,57.1,Average
+STU0262,Sahil Sharma,22,Female,BCA (AI),1,63.8,2.0,63.9,49.5,67.3,53.9,Needs Improvement
+STU0263,Meera Reddy,21,Female,B.Sc. CS,1,100.0,3.8,50.4,52.8,35.0,48.5,Needs Improvement
+STU0264,Diya Joshi,17,Female,BBA,3,100.0,2.7,57.8,46.0,55.7,59.4,Average
+STU0265,Ishaan Singh,22,Female,B.Sc. CS,5,74.6,3.2,65.9,63.0,65.0,63.3,Average
+STU0266,Kavya Gupta,17,Female,BCA (AI),5,77.3,5.3,52.5,49.8,53.0,63.6,Average
+STU0267,Meera Singh,19,Female,BCA,1,85.4,7.2,56.7,89.3,87.6,73.8,Good
+STU0268,Nisha Gupta,18,Male,B.Com,3,86.0,4.9,54.9,48.7,50.8,54.2,Needs Improvement
+STU0269,Aarav Sharma,21,Male,B.Com,3,89.9,2.0,73.9,59.2,62.7,62.1,Average
+STU0270,Rahul Reddy,22,Female,BCA (AI),1,100.0,5.0,73.7,72.3,69.6,74.9,Good
+STU0271,Krish Reddy,18,Female,B.Com,6,79.9,6.4,82.6,73.1,85.3,76.9,Good
+STU0272,Nisha Mehta,21,Prefer not to say,B.Sc. CS,6,72.4,3.1,65.8,57.4,50.8,52.4,Needs Improvement
+STU0273,Tanvi Gupta,21,Female,B.Com,2,65.4,4.0,73.8,71.6,82.0,72.1,Good
+STU0274,Ishaan Mehta,21,Female,BCA (AI),1,73.2,4.2,67.0,59.9,68.1,65.4,Average
+STU0275,Rahul Reddy,18,Female,BCA (AI),2,81.6,2.8,54.0,46.2,56.2,47.8,Needs Improvement
+STU0276,Riya Mehta,22,Female,B.Sc. CS,6,100.0,5.4,65.9,54.6,73.5,72.8,Good
+STU0277,Aarav Reddy,20,Male,B.Com,6,75.8,4.0,71.6,67.2,70.4,70.7,Good
+STU0278,Rahul Singh,18,Female,B.Com,1,84.7,5.0,71.1,50.7,60.8,63.1,Average
+STU0279,Diya Singh,21,Male,BCA,2,81.8,2.6,64.7,60.1,68.8,60.4,Average
+STU0280,Ishaan Reddy,22,Female,BBA,2,96.3,3.4,59.3,57.3,63.4,62.4,Average
+STU0281,Sahil Verma,19,Female,BCA (AI),1,100.0,5.5,66.2,74.2,69.4,67.9,Average
+STU0282,Tanvi Sharma,17,Male,BCA,2,75.6,3.5,74.6,63.1,75.9,65.9,Average
+STU0283,Tanvi Reddy,21,Female,BCA (AI),4,76.1,7.3,64.3,79.9,87.0,67.1,Average
+STU0284,Tanvi Sharma,19,Male,BCA,6,94.5,3.5,38.9,60.9,53.1,57.1,Average
+STU0285,Nisha Verma,20,Female,BBA,5,90.2,4.6,75.1,79.5,93.6,70.5,Good
+STU0286,Tanvi Reddy,21,Male,BCA,3,100.0,5.9,42.8,61.4,44.6,64.3,Average
+STU0287,Kavya Singh,19,Female,BCA (AI),2,89.0,1.6,60.3,58.8,66.2,55.8,Average
+STU0288,Nisha Verma,21,Male,B.Com,2,77.7,1.0,68.1,44.8,75.1,54.1,Needs Improvement
+STU0289,Riya Iyer,18,Female,BCA (AI),3,89.1,1.5,63.6,62.8,71.4,57.1,Average
+STU0290,Meera Mehta,22,Male,B.Sc. CS,2,95.3,6.5,72.9,72.8,60.5,71.3,Good
+STU0291,Aarav Verma,19,Female,B.Sc. CS,3,91.8,3.2,66.6,51.6,65.5,66.1,Average
+STU0292,Ishaan Singh,22,Male,B.Sc. CS,1,88.1,8.8,64.5,74.2,62.1,63.7,Average
+STU0293,Sahil Patel,18,Female,B.Sc. CS,4,94.8,3.2,66.5,57.3,60.9,66.3,Average
+STU0294,Meera Joshi,18,Male,BBA,4,96.0,4.5,61.9,68.6,78.2,69.8,Average
+STU0295,Aditi Singh,22,Female,B.Com,6,98.6,7.0,76.1,77.5,72.3,73.0,Good
+STU0296,Diya Verma,19,Female,B.Com,5,89.8,7.8,60.2,83.3,59.7,68.7,Average
+STU0297,Tanvi Gupta,22,Male,BCA (AI),2,80.0,7.9,76.7,89.4,78.8,88.9,Excellent
+STU0298,Ishaan Gupta,22,Female,BCA,5,83.8,6.4,58.9,62.2,71.7,62.6,Average
+STU0299,Aditi Singh,17,Female,BCA (AI),1,96.5,6.0,58.3,79.3,77.8,68.0,Average
+STU0300,Sahil Gupta,19,Male,BCA (AI),4,72.2,5.3,76.1,81.5,75.6,78.2,Good
+STU0301,Kavya Patel,17,Prefer not to say,BCA (AI),1,86.4,5.6,62.9,67.1,58.1,66.7,Average
+STU0302,Nisha Mehta,21,Female,BCA (AI),1,77.3,3.2,54.5,66.6,61.3,54.1,Needs Improvement
+STU0303,Diya Gupta,22,Male,B.Com,2,82.3,2.7,63.4,79.5,77.0,67.3,Average
+STU0304,Ishaan Kumar,21,Male,BCA,1,97.3,4.2,78.4,75.5,75.3,69.3,Average
+STU0305,Sahil Kumar,19,Female,BCA (AI),4,84.3,3.9,55.7,64.9,67.7,65.9,Average
+STU0306,Meera Kumar,22,Male,B.Com,5,82.6,3.4,79.3,70.4,69.4,72.7,Good
+STU0307,Sahil Patel,21,Male,BCA (AI),4,65.7,5.5,66.6,76.1,83.3,72.8,Good
+STU0308,Riya Kumar,20,Prefer not to say,B.Sc. CS,2,91.0,5.9,66.6,66.5,60.9,69.3,Average
+STU0309,Meera Kumar,18,Female,BCA (AI),4,89.7,4.4,66.4,64.7,74.6,74.3,Good
+STU0310,Kavya Iyer,22,Male,BCA (AI),3,100.0,6.9,68.9,84.0,65.6,76.4,Good
+STU0311,Diya Gupta,18,Female,BBA,5,78.3,2.1,59.6,49.7,65.4,49.2,Needs Improvement
+STU0312,Aarav Reddy,17,Female,B.Sc. CS,3,84.6,3.9,71.3,81.1,81.2,73.9,Good
+STU0313,Kavya Joshi,21,Female,BCA,3,85.0,2.9,71.2,68.4,77.9,75.3,Good
+STU0314,Kavya Iyer,17,Prefer not to say,BCA (AI),6,100.0,0.8,62.8,46.5,77.8,52.6,Needs Improvement
+STU0315,Sahil Gupta,22,Male,BCA,2,80.9,4.1,79.9,73.6,83.7,71.3,Good
+STU0316,Nisha Reddy,18,Male,B.Sc. CS,1,85.3,4.0,61.4,46.7,68.3,60.4,Average
+STU0317,Nisha Patel,18,Male,BCA (AI),3,89.3,6.9,68.1,81.4,76.2,76.2,Good
+STU0318,Meera Mehta,21,Female,BBA,4,84.2,5.3,55.4,73.1,64.3,61.0,Average
+STU0319,Riya Gupta,22,Female,B.Com,1,76.6,2.4,47.0,55.2,71.9,58.3,Average
+STU0320,Tanvi Mehta,20,Female,BBA,4,84.3,7.5,63.0,75.0,66.4,81.8,Good
+STU0321,Aditi Iyer,20,Female,BBA,4,94.9,6.4,85.3,87.2,69.2,81.7,Good
+STU0322,Riya Reddy,21,Male,B.Com,1,69.7,5.2,75.6,66.6,75.1,65.3,Average
+STU0323,Aarav Sharma,22,Male,B.Com,1,83.6,3.8,59.8,49.8,58.2,50.0,Needs Improvement
+STU0324,Diya Patel,21,Female,B.Com,4,73.6,2.5,77.1,81.7,93.1,73.3,Good
+STU0325,Aarav Mehta,22,Female,BCA (AI),2,96.3,3.5,58.9,72.2,55.9,67.1,Average
+STU0326,Ishaan Reddy,17,Female,BCA,5,63.7,6.2,61.8,63.8,53.4,63.5,Average
+STU0327,Aditi Reddy,21,Female,BCA,6,75.3,7.6,63.6,89.2,81.9,77.7,Good
+STU0328,Kavya Gupta,22,Male,B.Com,5,86.5,7.0,79.5,87.9,77.5,78.7,Good
+STU0329,Rahul Singh,20,Male,BBA,2,100.0,3.3,75.2,58.7,75.5,62.7,Average
+STU0330,Aditi Kumar,22,Male,B.Sc. CS,6,81.2,2.2,75.3,57.1,75.5,66.1,Average
+STU0331,Diya Verma,22,Female,B.Com,1,75.3,4.5,68.8,74.6,67.9,71.0,Good
+STU0332,Tanvi Sharma,21,Female,BBA,6,100.0,1.0,59.6,62.5,57.2,49.9,Needs Improvement
+STU0333,Riya Verma,17,Female,BBA,4,64.6,4.8,71.3,70.8,68.9,73.1,Good
+STU0334,Krish Joshi,17,Male,BCA (AI),5,55.6,3.9,65.7,52.5,59.9,58.4,Average
+STU0335,Diya Iyer,17,Male,BCA (AI),6,87.3,3.4,69.0,82.5,79.7,76.8,Good
+STU0336,Tanvi Iyer,17,Female,BCA,4,76.0,1.3,59.8,49.8,66.2,47.1,Needs Improvement
+STU0337,Aditi Joshi,19,Male,BCA,2,69.7,5.1,60.8,59.9,58.1,54.3,Needs Improvement
+STU0338,Riya Kumar,21,Male,B.Sc. CS,6,90.5,3.2,75.7,62.0,64.1,64.2,Average
+STU0339,Ishaan Reddy,18,Male,B.Sc. CS,4,84.9,2.1,58.2,72.0,73.0,63.6,Average
+STU0340,Kavya Singh,21,Male,B.Sc. CS,2,75.2,0.5,49.9,56.0,61.2,56.6,Average
+STU0341,Nisha Singh,19,Male,B.Sc. CS,1,66.6,4.2,61.3,62.8,58.1,61.7,Average
+STU0342,Riya Gupta,17,Male,BBA,2,92.5,7.4,67.4,79.3,70.9,74.9,Good
+STU0343,Aditi Kumar,19,Female,BBA,2,89.8,7.2,68.4,75.3,70.9,70.2,Good
+STU0344,Krish Kumar,20,Female,BCA,5,80.8,3.4,64.0,63.1,61.9,65.8,Average
+STU0345,Tanvi Verma,20,Female,BCA (AI),4,100.0,3.1,60.5,37.8,62.3,51.2,Needs Improvement
+STU0346,Meera Singh,21,Female,BCA (AI),6,69.2,5.0,78.9,65.6,70.8,75.4,Good
+STU0347,Nisha Mehta,21,Male,B.Com,5,63.7,2.4,43.0,52.4,50.6,45.1,Needs Improvement
+STU0348,Meera Iyer,18,Male,BBA,3,73.7,4.7,49.5,49.0,51.1,59.4,Average
+STU0349,Aarav Reddy,18,Female,B.Sc. CS,2,81.5,5.6,59.8,67.7,59.4,67.0,Average
+STU0350,Krish Gupta,20,Male,B.Sc. CS,3,84.9,6.4,50.8,68.3,65.4,64.4,Average
+STU0351,Krish Gupta,17,Female,B.Com,5,79.1,4.0,66.0,79.2,71.7,65.8,Average
+STU0352,Tanvi Reddy,19,Female,BCA (AI),4,86.2,3.8,88.4,83.4,85.7,76.8,Good
+STU0353,Meera Reddy,18,Female,B.Sc. CS,5,67.0,2.6,71.2,59.9,78.3,63.6,Average
+STU0354,Krish Sharma,22,Female,BCA (AI),4,99.3,2.7,66.2,57.2,66.1,61.9,Average
+STU0355,Diya Verma,18,Female,B.Com,4,81.0,3.8,55.2,62.0,67.8,57.3,Average
+STU0356,Krish Joshi,17,Male,BCA (AI),1,95.4,4.9,53.9,57.1,56.0,59.0,Average
+STU0357,Diya Reddy,17,Female,BCA (AI),2,86.1,5.8,62.3,70.8,67.8,68.6,Average
+STU0358,Nisha Joshi,21,Prefer not to say,BCA (AI),5,87.5,2.8,61.0,51.8,64.5,48.2,Needs Improvement
+STU0359,Kavya Joshi,19,Female,B.Sc. CS,4,88.8,6.9,77.8,65.3,71.9,76.0,Good
+STU0360,Krish Kumar,17,Female,BCA,5,87.4,3.7,64.4,63.0,58.1,57.2,Average
+STU0361,Rahul Mehta,18,Female,BBA,5,89.7,4.2,59.9,71.8,74.2,61.6,Average
+STU0362,Nisha Sharma,18,Male,BCA (AI),4,97.9,2.9,77.5,61.6,86.4,62.5,Average
+STU0363,Sahil Verma,20,Female,BCA (AI),6,84.4,0.5,68.7,58.8,66.7,49.4,Needs Improvement
+STU0364,Nisha Iyer,17,Male,BCA (AI),3,90.5,5.8,77.2,66.2,72.8,66.8,Average
+STU0365,Ishaan Reddy,22,Male,BCA,2,80.9,5.5,82.6,74.0,76.3,72.0,Good
+STU0366,Sahil Reddy,21,Male,B.Com,2,99.3,3.7,54.6,66.8,63.2,70.2,Good
+STU0367,Rahul Singh,19,Male,B.Sc. CS,6,73.9,4.3,60.4,65.4,70.7,60.5,Average
+STU0368,Riya Reddy,22,Female,BCA,1,100.0,5.1,55.4,70.7,68.2,67.6,Average
+STU0369,Riya Iyer,21,Female,BCA (AI),6,81.5,1.4,64.2,51.4,69.2,57.3,Average
+STU0370,Sahil Mehta,18,Female,BCA,1,64.8,3.2,64.0,55.2,58.7,56.4,Average
+STU0371,Aditi Iyer,22,Male,BCA,1,83.5,5.6,73.5,67.1,68.3,69.4,Average
+STU0372,Ishaan Joshi,21,Female,BCA,6,73.8,1.9,68.1,53.5,74.0,53.2,Needs Improvement
+STU0373,Meera Mehta,18,Female,B.Com,2,92.1,4.7,72.4,72.2,85.4,79.5,Good
+STU0374,Nisha Sharma,18,Prefer not to say,BBA,3,74.2,1.8,72.9,49.0,79.5,66.7,Average
+STU0375,Kavya Verma,18,Female,B.Sc. CS,2,76.6,5.0,72.9,74.4,93.8,67.3,Average
+STU0376,Aditi Sharma,18,Male,B.Com,2,59.3,4.1,77.1,57.4,58.8,56.6,Average
+STU0377,Kavya Verma,18,Male,B.Com,2,76.6,1.3,58.3,57.4,78.5,55.3,Average
+STU0378,Ishaan Patel,20,Female,BBA,6,52.9,6.3,68.1,69.8,70.2,62.8,Average
+STU0379,Diya Verma,22,Female,B.Com,6,63.0,2.9,96.0,71.1,94.3,76.5,Good
+STU0380,Krish Verma,21,Female,BCA,6,91.1,2.7,60.1,58.8,58.3,54.8,Needs Improvement
+STU0381,Nisha Joshi,20,Male,BCA,2,91.4,4.6,58.3,67.7,57.9,71.9,Good
+STU0382,Tanvi Kumar,20,Male,BCA (AI),3,87.1,6.3,58.6,62.2,60.8,69.7,Average
+STU0383,Riya Mehta,17,Male,B.Com,1,70.4,2.4,49.9,37.1,42.5,44.4,Needs Improvement
+STU0384,Ishaan Sharma,17,Male,BCA (AI),5,81.4,4.3,72.9,53.2,61.7,66.6,Average
+STU0385,Sahil Verma,17,Male,B.Sc. CS,1,82.0,5.0,42.7,58.5,58.9,60.8,Average
+STU0386,Riya Reddy,19,Female,BCA,1,68.1,5.4,78.7,66.0,69.8,66.6,Average
+STU0387,Ishaan Sharma,17,Female,B.Sc. CS,5,100.0,4.5,56.3,60.7,72.1,60.8,Average
+STU0388,Nisha Iyer,21,Male,BBA,2,92.5,3.5,75.6,61.7,90.5,70.8,Good
+STU0389,Ishaan Reddy,20,Female,BCA,3,79.3,2.7,68.2,60.8,79.4,66.7,Average
+STU0390,Diya Verma,21,Female,B.Sc. CS,3,82.3,4.4,66.3,62.9,61.1,63.5,Average
+STU0391,Kavya Patel,22,Male,BBA,1,84.5,2.3,46.7,57.8,57.2,45.5,Needs Improvement
+STU0392,Riya Mehta,17,Female,B.Sc. CS,5,57.5,0.5,72.3,50.4,73.9,50.6,Needs Improvement
+STU0393,Sahil Gupta,19,Male,BBA,4,79.0,5.0,72.9,56.1,52.2,61.8,Average
+STU0394,Aarav Joshi,22,Male,BBA,2,73.8,5.8,66.6,71.7,90.0,72.0,Good
+STU0395,Aditi Kumar,19,Female,BCA,1,70.0,0.5,74.7,58.3,82.2,67.9,Average
+STU0396,Rahul Joshi,22,Male,BCA (AI),3,78.6,2.4,57.0,48.9,62.4,47.4,Needs Improvement
+STU0397,Aditi Iyer,20,Female,BBA,6,100.0,5.3,57.5,62.9,47.4,64.0,Average
+STU0398,Kavya Reddy,21,Female,BBA,6,89.7,7.9,74.5,68.9,84.2,84.6,Good
+STU0399,Krish Patel,18,Female,BCA,5,75.1,4.2,59.5,60.7,66.6,70.1,Good
+STU0400,Diya Reddy,21,Female,BCA (AI),5,88.9,2.9,77.5,68.9,82.9,68.1,Average
+STU0401,Nisha Reddy,17,Male,B.Com,1,98.8,3.9,69.3,55.8,48.9,62.8,Average
+STU0402,Riya Verma,18,Female,B.Com,4,93.1,6.7,59.9,90.3,60.8,75.9,Good
+STU0403,Sahil Verma,19,Female,BCA (AI),3,82.7,3.0,71.2,63.1,68.1,64.2,Average
+STU0404,Kavya Gupta,20,Female,B.Sc. CS,1,74.2,2.8,55.4,51.7,68.6,54.4,Needs Improvement
+STU0405,Tanvi Verma,20,Male,BCA,4,90.4,3.3,54.8,58.1,62.6,59.9,Average
+STU0406,Kavya Mehta,19,Male,BCA (AI),5,86.7,2.5,73.3,47.7,75.5,50.3,Needs Improvement
+STU0407,Riya Reddy,17,Female,B.Com,6,92.7,4.4,70.2,58.3,55.2,66.0,Average
+STU0408,Nisha Mehta,19,Female,BBA,2,89.6,7.1,67.3,66.0,66.3,71.4,Good
+STU0409,Nisha Iyer,22,Female,B.Com,6,94.6,4.8,63.7,73.9,69.4,67.9,Average
+STU0410,Kavya Kumar,17,Female,BBA,3,75.6,3.7,68.8,61.0,74.2,72.3,Good
+STU0411,Sahil Reddy,18,Male,BCA,3,97.8,3.7,60.1,65.3,76.5,62.6,Average
+STU0412,Ishaan Iyer,19,Male,BBA,6,84.4,1.4,62.8,43.9,54.5,49.2,Needs Improvement
+STU0413,Kavya Verma,17,Female,BCA (AI),6,100.0,5.8,62.3,74.8,49.6,75.7,Good
+STU0414,Riya Joshi,18,Female,BBA,4,73.7,4.1,70.2,67.9,83.3,64.4,Average
+STU0415,Meera Joshi,19,Female,B.Sc. CS,1,100.0,3.9,63.8,79.5,72.0,67.4,Average
+STU0416,Tanvi Patel,20,Male,BCA (AI),5,84.4,9.9,62.6,84.9,59.0,76.8,Good
+STU0417,Ishaan Kumar,19,Female,BCA,4,74.2,4.7,72.1,78.0,86.6,76.4,Good
+STU0418,Krish Sharma,21,Prefer not to say,BCA (AI),2,76.2,2.8,65.6,63.3,69.4,61.9,Average
+STU0419,Ishaan Reddy,19,Male,B.Sc. CS,6,78.2,3.4,90.0,71.1,82.2,67.8,Average
+STU0420,Kavya Mehta,21,Female,BCA,2,87.1,6.3,63.9,55.6,68.8,63.7,Average
+STU0421,Kavya Sharma,18,Male,B.Com,2,88.3,4.4,76.1,73.6,92.7,72.5,Good
+STU0422,Sahil Mehta,19,Male,B.Sc. CS,4,75.1,1.6,71.8,72.0,89.1,65.9,Average
+STU0423,Nisha Mehta,18,Male,BCA,5,81.7,5.9,69.7,67.6,65.0,70.2,Good
+STU0424,Sahil Singh,18,Female,BBA,3,100.0,3.0,70.4,54.2,79.7,66.8,Average
+STU0425,Nisha Kumar,17,Female,BCA (AI),1,100.0,7.6,64.5,77.9,75.7,69.4,Average
+STU0426,Riya Iyer,18,Male,BCA,3,87.2,6.1,85.0,91.3,84.4,87.8,Excellent
+STU0427,Tanvi Reddy,18,Male,BCA (AI),5,82.5,3.4,70.4,66.2,56.4,63.3,Average
+STU0428,Kavya Sharma,19,Male,BBA,3,83.4,6.5,65.1,74.6,76.2,78.3,Good
+STU0429,Tanvi Iyer,19,Male,BCA,6,89.4,4.3,57.5,77.8,80.7,70.7,Good
+STU0430,Tanvi Kumar,20,Male,B.Com,6,69.7,5.7,61.9,56.5,46.9,63.1,Average
+STU0431,Krish Singh,17,Male,B.Sc. CS,4,78.9,5.1,52.1,46.8,53.8,56.6,Average
+STU0432,Krish Joshi,18,Female,BCA,2,62.0,2.7,58.3,40.8,43.5,52.1,Needs Improvement
+STU0433,Diya Kumar,17,Male,BBA,5,86.8,3.0,47.9,71.4,64.8,61.2,Average
+STU0434,Aditi Verma,21,Male,BCA,5,89.8,6.1,77.3,71.7,76.6,74.6,Good
+STU0435,Meera Reddy,18,Male,BCA (AI),3,76.2,3.6,65.6,68.3,86.0,76.3,Good
+STU0436,Riya Reddy,17,Male,BCA,4,100.0,3.5,71.7,59.7,68.9,69.4,Average
+STU0437,Krish Singh,20,Female,B.Com,3,67.3,2.5,76.3,82.6,87.5,72.8,Good
+STU0438,Kavya Sharma,20,Male,BCA,3,64.4,5.0,48.7,72.0,51.4,52.2,Needs Improvement
+STU0439,Meera Joshi,18,Male,B.Sc. CS,5,84.7,7.9,50.9,84.5,47.6,62.9,Average
+STU0440,Rahul Joshi,21,Female,BCA,3,94.6,2.3,70.5,56.3,67.3,62.6,Average
+STU0441,Kavya Patel,20,Female,BCA (AI),2,100.0,4.2,68.8,68.6,72.6,69.8,Average
+STU0442,Riya Iyer,20,Female,BCA,3,76.5,6.7,69.9,59.9,67.6,65.4,Average
+STU0443,Krish Kumar,21,Female,B.Com,2,94.9,4.1,67.6,64.2,43.2,61.8,Average
+STU0444,Diya Gupta,17,Female,BBA,5,81.5,5.0,52.3,56.8,66.9,66.5,Average
+STU0445,Diya Reddy,20,Female,BCA,4,79.9,2.3,69.7,52.6,52.3,58.6,Average
+STU0446,Tanvi Gupta,19,Male,BCA,6,92.6,5.0,70.7,61.3,76.0,64.1,Average
+STU0447,Ishaan Verma,22,Male,B.Sc. CS,2,89.8,3.9,60.6,60.2,72.4,62.4,Average
+STU0448,Nisha Singh,22,Male,B.Com,4,63.1,6.0,48.6,57.9,56.7,53.3,Needs Improvement
+STU0449,Rahul Mehta,20,Male,BBA,4,99.7,6.3,60.5,63.2,61.8,65.6,Average
+STU0450,Tanvi Verma,17,Female,BCA (AI),2,98.6,8.9,65.8,68.9,55.3,71.5,Good
+STU0451,Ishaan Kumar,17,Female,BCA,5,74.5,5.2,64.0,62.7,67.2,62.1,Average
+STU0452,Diya Iyer,18,Male,BBA,1,86.7,4.8,83.8,77.7,79.5,70.9,Good
+STU0453,Kavya Verma,19,Female,BCA (AI),4,87.9,4.5,47.3,51.0,56.2,54.4,Needs Improvement
+STU0454,Sahil Patel,17,Prefer not to say,B.Com,4,85.1,3.6,68.6,66.5,74.0,63.5,Average
+STU0455,Rahul Mehta,21,Male,B.Com,5,75.4,4.8,51.9,72.9,61.6,49.3,Needs Improvement
+STU0456,Aditi Iyer,19,Male,BBA,5,73.9,3.7,63.1,54.0,58.5,65.7,Average
+STU0457,Ishaan Iyer,22,Prefer not to say,BCA (AI),3,81.7,4.5,71.8,58.7,66.7,69.2,Average
+STU0458,Aditi Reddy,19,Female,B.Com,5,96.1,6.6,55.2,64.2,55.6,63.3,Average
+STU0459,Tanvi Singh,21,Female,BBA,4,88.5,2.4,40.9,64.7,61.4,53.9,Needs Improvement
+STU0460,Kavya Verma,20,Male,B.Com,2,77.6,6.3,59.1,65.7,53.6,58.2,Average
+STU0461,Riya Sharma,21,Female,B.Com,1,91.3,6.6,81.9,78.0,91.6,88.9,Excellent
+STU0462,Meera Reddy,21,Male,B.Com,3,47.8,4.0,68.9,67.4,68.4,69.3,Average
+STU0463,Aarav Joshi,20,Female,B.Sc. CS,2,95.8,0.5,70.7,39.6,59.6,53.4,Needs Improvement
+STU0464,Diya Reddy,20,Male,BCA (AI),1,61.1,3.1,58.2,67.1,70.6,63.1,Average
+STU0465,Krish Mehta,20,Male,BBA,1,77.7,6.5,70.1,74.2,66.7,72.0,Good
+STU0466,Riya Sharma,20,Male,BBA,1,68.6,4.2,73.5,60.3,65.3,57.4,Average
+STU0467,Krish Mehta,20,Female,BCA (AI),6,66.5,2.4,55.2,54.9,75.4,53.5,Needs Improvement
+STU0468,Krish Singh,21,Female,BCA (AI),2,95.9,3.3,73.0,58.1,77.1,66.9,Average
+STU0469,Aarav Iyer,18,Male,BCA (AI),3,76.4,5.7,57.9,70.3,61.6,62.4,Average
+STU0470,Ishaan Mehta,18,Female,BCA (AI),3,86.2,5.2,60.9,73.9,61.1,65.3,Average
+STU0471,Meera Verma,17,Male,BCA,1,81.4,3.8,66.4,56.1,64.7,60.4,Average
+STU0472,Aarav Joshi,18,Male,BBA,2,87.7,3.5,46.3,53.2,40.4,50.0,Needs Improvement
+STU0473,Nisha Mehta,22,Male,BCA,6,82.9,3.5,50.0,36.9,49.8,48.7,Needs Improvement
+STU0474,Nisha Patel,18,Male,B.Com,1,66.6,2.5,74.7,61.4,84.4,59.7,Average
+STU0475,Sahil Verma,21,Female,B.Com,5,94.0,7.1,67.6,82.0,87.7,76.5,Good
+STU0476,Meera Joshi,20,Male,BBA,3,76.1,3.6,55.1,53.6,65.0,50.9,Needs Improvement
+STU0477,Aarav Reddy,20,Male,B.Com,4,63.3,6.4,74.6,66.7,74.9,74.3,Good
+STU0478,Rahul Singh,21,Female,BCA (AI),1,76.9,6.9,58.3,69.1,71.7,59.5,Average
+STU0479,Tanvi Singh,22,Prefer not to say,BCA,5,100.0,6.0,88.3,86.5,100.0,92.1,Excellent
+STU0480,Diya Gupta,18,Female,BCA (AI),3,92.2,3.4,76.5,66.1,81.4,75.7,Good
+STU0481,Aarav Gupta,21,Female,B.Com,6,77.8,4.9,50.7,47.8,66.5,55.2,Average
+STU0482,Aditi Iyer,17,Female,BCA,2,77.8,4.2,53.7,41.8,56.5,41.6,Needs Improvement
+STU0483,Aditi Mehta,20,Male,BCA (AI),3,78.1,2.6,64.4,45.3,48.7,50.4,Needs Improvement
+STU0484,Tanvi Sharma,19,Female,BBA,2,100.0,4.8,58.9,70.7,70.4,67.3,Average
+STU0485,Tanvi Mehta,17,Male,BCA (AI),2,86.6,2.1,56.7,31.2,58.9,44.2,Needs Improvement
+STU0486,Kavya Joshi,22,Male,B.Com,6,87.2,6.3,59.7,59.2,50.9,60.3,Average
+STU0487,Ishaan Reddy,17,Female,BCA,6,94.4,3.4,67.4,53.7,60.2,66.9,Average
+STU0488,Meera Gupta,21,Female,BBA,1,84.9,4.6,56.2,70.5,55.0,64.4,Average
+STU0489,Kavya Singh,18,Male,BCA,1,78.9,4.7,71.8,71.7,88.2,68.1,Average
+STU0490,Meera Kumar,20,Female,BBA,3,79.6,3.7,82.6,70.4,78.6,64.4,Average
+STU0491,Kavya Sharma,22,Male,BCA,6,81.1,5.3,79.3,68.5,67.9,69.3,Average
+STU0492,Aditi Kumar,22,Female,B.Com,5,81.6,3.3,83.0,52.3,85.8,66.7,Average
+STU0493,Diya Verma,19,Male,BBA,3,90.7,5.8,66.6,75.6,68.9,73.3,Good
+STU0494,Ishaan Singh,17,Male,B.Sc. CS,4,82.6,1.8,53.2,53.4,57.7,49.5,Needs Improvement
+STU0495,Ishaan Singh,19,Female,BCA,2,90.8,4.4,68.8,77.1,86.3,75.2,Good
+STU0496,Diya Mehta,18,Female,BCA,2,81.0,7.7,73.1,100.0,74.5,90.6,Excellent
+STU0497,Rahul Kumar,18,Female,BCA (AI),1,82.9,2.4,61.9,36.0,55.6,54.0,Needs Improvement
+STU0498,Ishaan Verma,19,Female,BBA,5,58.0,3.0,75.4,72.9,65.7,63.2,Average
+STU0499,Aditi Kumar,20,Male,B.Sc. CS,6,93.0,5.1,64.8,60.0,57.5,63.0,Average
+STU0500,Meera Reddy,18,Male,B.Com,6,86.2,4.5,44.2,59.9,51.4,53.7,Needs Improvement
+STU0501,Riya Iyer,19,Female,BCA (AI),1,94.0,4.8,79.9,70.7,79.1,79.2,Good
+STU0502,Meera Kumar,17,Male,B.Sc. CS,4,47.2,5.1,70.0,73.8,90.9,66.8,Average
+STU0503,Riya Reddy,19,Male,BBA,3,100.0,5.3,53.1,55.6,51.2,59.8,Average
+STU0504,Riya Gupta,19,Female,B.Sc. CS,3,80.3,6.2,71.1,76.1,74.8,73.4,Good
+STU0505,Sahil Patel,21,Female,BCA,5,95.3,4.9,77.1,50.7,60.2,63.1,Average
+STU0506,Kavya Joshi,18,Male,BCA,1,69.5,3.8,87.1,66.0,62.2,61.2,Average
+STU0507,Aarav Sharma,20,Male,BCA (AI),1,89.4,5.4,66.3,61.4,60.9,66.6,Average
+STU0508,Meera Kumar,20,Male,BBA,4,69.4,7.6,58.2,61.3,57.6,63.8,Average
+STU0509,Kavya Sharma,21,Male,BBA,3,74.5,4.0,70.0,59.9,68.6,65.1,Average
+STU0510,Rahul Sharma,22,Female,B.Sc. CS,1,100.0,2.4,67.0,64.0,58.0,59.3,Average
+STU0511,Kavya Reddy,20,Male,BCA (AI),6,79.7,6.2,64.6,67.6,71.2,73.7,Good
+STU0512,Rahul Singh,19,Male,BBA,5,84.6,4.0,79.4,65.9,67.4,64.4,Average
+STU0513,Nisha Gupta,21,Male,BCA,3,92.4,0.5,65.7,45.1,65.1,60.6,Average
+STU0514,Sahil Patel,17,Female,B.Sc. CS,4,87.9,5.7,63.4,70.1,57.1,59.0,Average
+STU0515,Ishaan Verma,18,Female,B.Com,5,83.8,3.2,66.9,63.3,61.1,63.2,Average
+STU0516,Aarav Joshi,18,Female,BCA,2,86.4,4.0,73.8,82.4,77.1,74.8,Good
+STU0517,Aarav Sharma,18,Male,BCA (AI),6,100.0,4.8,75.4,67.3,74.0,68.5,Average
+STU0518,Ishaan Reddy,19,Female,BBA,4,81.3,4.5,54.0,65.2,56.3,61.3,Average
+STU0519,Tanvi Reddy,17,Female,BCA,5,84.4,5.5,61.6,69.4,69.2,72.5,Good
+STU0520,Krish Iyer,21,Female,B.Com,1,94.6,3.4,61.6,76.0,77.0,58.4,Average
+STU0521,Aarav Mehta,21,Female,B.Com,2,95.3,5.1,57.9,52.2,48.0,60.6,Average
+STU0522,Riya Kumar,18,Male,BCA (AI),4,96.2,3.7,75.2,71.4,74.5,60.1,Average
+STU0523,Tanvi Joshi,17,Male,BCA,1,89.7,5.5,64.7,63.2,60.0,61.3,Average
+STU0524,Meera Singh,17,Male,B.Sc. CS,6,68.3,5.3,82.6,70.2,74.8,78.6,Good
+STU0525,Ishaan Gupta,17,Female,BCA,2,100.0,2.5,60.3,55.3,58.8,55.4,Average
+STU0526,Krish Iyer,20,Male,B.Com,3,68.2,6.2,58.8,62.6,46.3,54.7,Needs Improvement
+STU0527,Tanvi Kumar,20,Female,BCA (AI),1,85.6,3.2,45.9,51.2,48.5,49.7,Needs Improvement
+STU0528,Nisha Kumar,18,Female,BCA (AI),5,72.9,5.7,62.6,70.7,68.6,75.2,Good
+STU0529,Aditi Gupta,17,Female,B.Sc. CS,4,81.2,4.9,72.7,80.2,71.1,64.0,Average
+STU0530,Rahul Patel,22,Female,BCA (AI),2,85.9,7.5,66.2,77.6,57.1,67.6,Average
+STU0531,Aarav Sharma,17,Female,BCA (AI),1,85.9,3.8,67.3,73.2,75.7,74.3,Good
+STU0532,Diya Reddy,21,Male,BCA (AI),3,87.1,3.6,53.9,49.4,48.1,60.7,Average
+STU0533,Kavya Patel,21,Male,BCA (AI),4,100.0,4.2,52.8,56.5,67.2,60.2,Average
+STU0534,Rahul Joshi,18,Male,BCA (AI),4,87.4,3.7,54.6,63.4,53.5,52.6,Needs Improvement
+STU0535,Diya Iyer,22,Female,B.Com,1,79.1,5.6,68.2,72.1,60.2,76.3,Good
+STU0536,Krish Mehta,17,Female,BCA,3,93.6,1.3,70.3,66.8,68.6,69.0,Average
+STU0537,Ishaan Singh,22,Female,BBA,6,96.3,2.3,63.7,48.5,57.7,58.8,Average
+STU0538,Tanvi Verma,18,Prefer not to say,BCA (AI),6,67.3,2.3,63.3,54.0,63.4,51.4,Needs Improvement
+STU0539,Kavya Joshi,21,Male,BBA,2,89.2,5.9,72.1,61.8,80.1,71.3,Good
+STU0540,Meera Mehta,21,Male,BBA,1,90.4,7.3,56.3,67.6,61.1,67.0,Average
+STU0541,Krish Patel,20,Female,B.Com,2,78.4,4.0,76.5,75.9,78.0,72.5,Good
+STU0542,Kavya Sharma,18,Male,BCA (AI),6,98.5,3.9,61.3,53.2,54.4,65.1,Average
+STU0543,Meera Iyer,18,Female,BBA,4,80.2,4.3,72.8,72.4,74.4,73.0,Good
+STU0544,Aarav Verma,17,Male,BCA (AI),2,83.5,6.3,70.7,77.0,85.3,71.4,Good
+STU0545,Diya Patel,17,Male,B.Sc. CS,3,79.9,2.5,31.9,47.9,38.3,47.8,Needs Improvement
+STU0546,Nisha Mehta,20,Prefer not to say,B.Sc. CS,5,82.2,4.6,68.9,51.9,58.4,62.2,Average
+STU0547,Krish Reddy,19,Male,B.Sc. CS,6,68.8,6.0,65.4,73.5,74.9,72.1,Good
+STU0548,Riya Singh,22,Female,BBA,6,64.7,5.1,57.2,41.9,65.6,61.5,Average
+STU0549,Rahul Sharma,19,Male,B.Sc. CS,3,100.0,4.5,73.4,65.6,72.5,65.5,Average
+STU0550,Sahil Verma,19,Male,B.Com,2,71.8,6.0,58.3,53.5,60.8,59.9,Average
+STU0551,Ishaan Patel,18,Female,B.Com,1,70.1,0.5,74.5,62.3,69.0,55.9,Average
+STU0552,Aarav Kumar,22,Female,BBA,4,56.2,5.4,69.3,73.3,66.1,59.5,Average
+STU0553,Meera Verma,18,Female,BCA (AI),5,74.3,3.0,78.6,70.3,82.0,70.2,Good
+STU0554,Kavya Gupta,22,Female,BCA,1,66.1,0.9,56.2,67.0,71.1,65.5,Average
+STU0555,Sahil Mehta,21,Female,BCA (AI),1,100.0,5.1,77.3,61.2,72.1,63.4,Average
+STU0556,Aarav Mehta,18,Male,BCA (AI),3,94.1,6.7,64.8,83.7,63.1,73.6,Good
+STU0557,Ishaan Joshi,18,Female,BCA (AI),2,73.7,4.0,59.2,68.1,62.1,63.5,Average
+STU0558,Ishaan Gupta,18,Female,BCA (AI),6,100.0,5.9,63.7,65.3,62.8,68.6,Average
+STU0559,Rahul Kumar,20,Male,BCA,6,93.8,7.1,53.8,84.5,72.7,73.0,Good
+STU0560,Tanvi Singh,18,Male,B.Sc. CS,3,78.1,6.6,65.9,60.5,62.9,60.6,Average
+STU0561,Nisha Iyer,17,Male,BCA (AI),2,52.0,7.2,59.1,68.5,71.5,66.7,Average
+STU0562,Ishaan Patel,17,Female,B.Com,3,100.0,5.5,68.3,74.7,92.9,73.5,Good
+STU0563,Nisha Kumar,22,Male,BBA,6,65.3,4.3,59.0,64.9,78.5,53.5,Needs Improvement
+STU0564,Aditi Reddy,21,Male,BBA,1,62.3,1.3,72.1,44.6,64.1,57.7,Average
+STU0565,Rahul Patel,20,Female,B.Com,4,94.3,3.8,68.3,78.9,82.4,75.9,Good
+STU0566,Tanvi Verma,22,Female,BCA (AI),2,100.0,2.7,75.0,54.9,63.1,63.0,Average
+STU0567,Aarav Joshi,17,Male,BCA,5,98.6,8.1,47.7,68.4,43.5,65.6,Average
+STU0568,Sahil Patel,20,Male,B.Sc. CS,5,88.8,3.9,45.1,53.0,55.9,58.2,Average
+STU0569,Meera Sharma,20,Prefer not to say,BBA,1,89.1,4.4,44.1,40.1,45.6,50.2,Needs Improvement
+STU0570,Aarav Iyer,21,Male,B.Sc. CS,3,92.2,5.2,73.0,67.5,63.8,72.9,Good
+STU0571,Tanvi Joshi,20,Male,BCA,3,91.1,4.3,64.3,49.1,68.2,60.0,Average
+STU0572,Tanvi Patel,18,Male,BBA,6,85.4,7.3,72.1,82.3,88.1,85.6,Excellent
+STU0573,Krish Patel,20,Female,B.Sc. CS,1,83.3,3.1,68.8,51.3,71.9,61.9,Average
+STU0574,Tanvi Singh,21,Female,BCA,6,81.2,4.6,68.0,79.9,65.4,69.5,Average
+STU0575,Aarav Kumar,22,Female,B.Sc. CS,6,73.0,2.9,79.8,71.5,78.0,62.8,Average
+STU0576,Aarav Sharma,21,Male,BCA (AI),5,78.6,1.8,62.4,45.3,41.5,50.0,Needs Improvement
+STU0577,Riya Mehta,21,Male,BCA,6,61.7,3.1,64.1,71.9,70.8,58.2,Average
+STU0578,Tanvi Gupta,17,Male,B.Sc. CS,6,80.8,4.1,59.9,61.2,77.3,60.6,Average
+STU0579,Aditi Verma,18,Female,BCA (AI),5,70.1,3.4,52.3,57.9,50.3,49.3,Needs Improvement
+STU0580,Sahil Mehta,17,Male,BCA (AI),3,68.8,3.0,75.0,67.8,81.7,61.8,Average
+STU0581,Aarav Verma,22,Female,BCA,2,84.2,1.7,59.9,59.9,72.1,66.9,Average
+STU0582,Tanvi Joshi,19,Female,B.Com,4,98.7,4.1,55.0,71.5,63.0,69.4,Average
+STU0583,Krish Verma,22,Male,BBA,6,93.0,1.5,72.3,64.6,75.6,72.0,Good
+STU0584,Meera Singh,18,Male,BCA,2,63.2,5.6,80.0,83.0,95.2,72.9,Good
+STU0585,Aditi Gupta,20,Prefer not to say,BCA (AI),5,70.1,4.3,66.9,52.3,70.2,61.0,Average
+STU0586,Sahil Iyer,21,Female,BCA (AI),2,93.3,1.6,61.0,49.3,71.0,50.9,Needs Improvement
+STU0587,Sahil Iyer,19,Male,BCA,4,70.2,3.6,60.5,58.8,62.5,55.0,Needs Improvement
+STU0588,Nisha Patel,18,Female,B.Com,2,79.3,2.8,52.4,55.9,57.8,49.9,Needs Improvement
+STU0589,Diya Verma,17,Female,BBA,2,88.6,4.8,78.0,61.3,78.0,75.6,Good
+STU0590,Kavya Singh,21,Male,B.Sc. CS,2,70.4,6.6,68.0,86.4,57.7,69.6,Average
+STU0591,Meera Singh,22,Male,BCA,2,83.3,0.8,51.1,65.8,68.9,59.3,Average
+STU0592,Rahul Verma,17,Male,BBA,1,66.0,4.4,54.8,66.9,62.3,61.8,Average
+STU0593,Sahil Gupta,18,Female,BBA,6,74.8,3.9,56.6,66.3,73.7,71.6,Good
+STU0594,Meera Singh,18,Male,BCA (AI),5,85.8,5.4,62.4,68.0,72.0,61.4,Average
+STU0595,Krish Mehta,22,Female,B.Sc. CS,4,62.9,4.6,71.6,63.3,80.5,71.5,Good
+STU0596,Ishaan Joshi,19,Male,BCA,5,87.3,2.8,50.4,57.6,61.9,60.2,Average
+STU0597,Rahul Sharma,22,Female,BCA (AI),1,81.8,3.6,56.2,62.8,64.8,55.4,Average
+STU0598,Meera Iyer,20,Female,BCA (AI),1,88.6,2.8,50.9,44.2,56.3,55.3,Average
+STU0599,Tanvi Reddy,17,Male,B.Com,1,84.7,6.1,64.1,70.5,62.7,69.5,Average
+STU0600,Kavya Verma,19,Male,BBA,6,98.4,4.2,68.4,65.0,72.5,67.0,Average

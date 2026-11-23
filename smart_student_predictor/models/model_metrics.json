@@ -1,0 +1,94 @@
+{
+  "mae": 3.5187466862304317,
+  "rmse": 4.4346832164954755,
+  "r2_score": 0.7089502574917723,
+  "accuracy": 0.7083333333333334,
+  "balanced_accuracy": 0.529054054054054,
+  "classification_report": {
+    "Excellent": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 1.0
+    },
+    "Good": {
+      "precision": 0.6111111111111112,
+      "recall": 0.7333333333333333,
+      "f1-score": 0.6666666666666666,
+      "support": 30.0
+    },
+    "Average": {
+      "precision": 0.803030303030303,
+      "recall": 0.7162162162162162,
+      "f1-score": 0.7571428571428571,
+      "support": 74.0
+    },
+    "Needs Improvement": {
+      "precision": 0.5555555555555556,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.6060606060606061,
+      "support": 15.0
+    },
+    "accuracy": 0.7083333333333334,
+    "macro avg": {
+      "precision": 0.49242424242424243,
+      "recall": 0.529054054054054,
+      "f1-score": 0.5074675324675324,
+      "support": 120.0
+    },
+    "weighted avg": {
+      "precision": 0.7174242424242423,
+      "recall": 0.7083333333333334,
+      "f1-score": 0.7093290043290044,
+      "support": 120.0
+    }
+  },
+  "confusion_labels": [
+    "Excellent",
+    "Good",
+    "Average",
+    "Needs Improvement"
+  ],
+  "confusion_matrix": [
+    [
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      22,
+      8,
+      0
+    ],
+    [
+      0,
+      13,
+      53,
+      8
+    ],
+    [
+      0,
+      0,
+      5,
+      10
+    ]
+  ],
+  "training_records": 480,
+  "testing_records": 120,
+  "regressor_feature_importance": {
+    "Attendance_Percentage": 0.06406276488026635,
+    "Study_Hours_Per_Day": 0.16899245280457334,
+    "Internal_Marks": 0.19004320794683238,
+    "Assignment_Score": 0.3836120694399349,
+    "Previous_Semester_Marks": 0.19328950492839297
+  },
+  "classifier_feature_importance": {
+    "Attendance_Percentage": 0.08955404647909158,
+    "Study_Hours_Per_Day": 0.2161487455188815,
+    "Internal_Marks": 0.1729561589318939,
+    "Assignment_Score": 0.3243319298765355,
+    "Previous_Semester_Marks": 0.19700911919359765
+  }
+}
